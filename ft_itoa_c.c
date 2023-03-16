@@ -6,7 +6,7 @@
 /*   By: jmerchan <jmerchan@student.42malaga.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/20 13:22:29 by jmerchan          #+#    #+#             */
-/*   Updated: 2023/02/08 11:51:21 by jmerchan         ###   ########.fr       */
+/*   Updated: 2023/03/16 19:43:58 by jmerchan         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -72,11 +72,6 @@ char	*ft_itoa_uc(unsigned int n)
 	if (!strn)
 		return (0);
 	strn[digits--] = 0;
-	/*if (nb < 0)
-	{
-		strn[0] = '-';
-		nb = nb * -1;
-	}*/
 	if (nb == 0)
 		strn[0] = '0';
 	while (nb > 0)
