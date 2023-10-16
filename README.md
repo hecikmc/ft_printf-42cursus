@@ -4,6 +4,10 @@
 
 Creating my own printf function replicating the behavior of the original. 
 
+<p align="center">
+<img width="450" alt="Screen Shot 2023-03-16 at 7 17 50 PM" src="https://github.com/hecikmc/ft_printf-42cursus/assets/121127625/44575a8d-0799-4dd5-971e-32fff13791e1">
+</p>
+
 <img width="1026" alt="Screen Shot 2023-03-16 at 7 17 50 PM" src="https://user-images.githubusercontent.com/121127625/225715875-814b48ea-0c32-4a5f-8d28-5e972dabe38a.png">
 
 * Project developed in C language.
